@@ -20,18 +20,18 @@ Pygame website - https://www.pygame.org/news
 ![missile-screenshot](/screenshots/missile.JPG?raw=true "Missile")
 
 ## Keyboard 
-Original CHIP-8 keyboard had 16 keys.
-**CHIP-8 Keyboard layout**
-| 1 | 2 | 3 | C |      
-| 4 | 5 | 6 | D |
-| 7 | 8 | 9 | E |
-| A | 0 | B | F |
+Original CHIP-8 keyboard had 16 keys. <br>
+**CHIP-8 Keyboard layout** <br>
+| 1 | 2 | 3 | C | <br>      
+| 4 | 5 | 6 | D | <br>
+| 7 | 8 | 9 | E | <br>
+| A | 0 | B | F | <br>
     
-**Mapped to PC keyboard**
-| 1 | 2 | 3 | 4 |      
-| Q | W | E | R |
-| A | S | D | F |
-| Z | X | C | V |
+**Mapped to PC keyboard** <br>
+| 1 | 2 | 3 | 4 | <br>      
+| Q | W | E | R | <br>
+| A | S | D | F | <br>
+| Z | X | C | V | <br>
 
 ## Technical Reference
 If you would like to know more about technical specifications please refer the below website.
