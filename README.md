@@ -16,7 +16,8 @@ Pygame website - https://www.pygame.org/news
 
 ## Screenshots
 ![chip-8-screenshot](/screenshots/chip-8.JPG?raw=true "CHIP-8")
-![ping-pong-screenshot](/screenshots/ping-pong.JPG?raw=true "Ping Pong")
+![ping-pong-screenshot](/screenshots/ping-pong.gif?raw=true "Ping Pong")
+![tic-tac-screenshot](/screenshots/tic-tac.gif?raw=true "Tic tac")
 ![missile-screenshot](/screenshots/missile.JPG?raw=true "Missile")
 
 ## Keyboard 
