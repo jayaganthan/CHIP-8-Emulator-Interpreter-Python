@@ -52,6 +52,9 @@ I have included only test ROMS in this repository. A simple google search will g
 2. BC_test - Taken from - [Link](https://slack-files.com/T3CH37TNX-F3RF5KT43-0fb93dbd1f) - Credits to author BestCoder. Test documentation - [Link](https://slack-files.com/T3CH37TNX-F3RKEUKL4-b05ab4930d)
 3. Sample - Simple test to print stored hex sprites - Taken from repo - [Link](https://github.com/giawa/chip8) - Credits to [giawa](https://github.com/giawa)
 
+## Colours
+Emulator supports two colours((black and white) and (dark and light green)). If you would like to change the colours, you can edit the BACKGROUND_COLOR and FOREGROUND_COLOR variables in display.py
+
 ## PR
 PRs are welcome for any improvements.
 
